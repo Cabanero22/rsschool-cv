@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Cabanero22.github.io/rsschool-cv/index
+https://Cabanero22.github.io/rsschool-cv/
